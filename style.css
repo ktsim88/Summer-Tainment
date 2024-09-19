@@ -21,3 +21,8 @@ nav {
     color: white;
   }
   /* overall */
+  main {
+    text-align: center;
+    margin: 10px;
+    padding: 2px;
+  }
