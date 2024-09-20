@@ -2,7 +2,7 @@
 nav {
     background-color: rgb(114, 192, 255);
 }
-/* hero image */
+/* hero image from w3schools*/
 .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("imgs/machupicchu2.jpg");
     background-position: center;
@@ -23,6 +23,39 @@ nav {
   /* overall */
   main {
     text-align: center;
-    margin: 10px;
-    padding: 2px;
+  }
+  img {
+    border: solid 2px black;
+    margin: 5px;
+  }
+  #people {
+    width: 500px;
+    height: 500px;
+  }
+  .food {
+    height: 275px;
+    width: 500px;
+  }
+  h1 {
+    font-family: "mestiza-sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  p, h5 {
+    font-family: "mestiza-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  li {
+    font-family: "fillip", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h2 {
+    font-family: "fillip", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  a {
+    color: black;
   }
