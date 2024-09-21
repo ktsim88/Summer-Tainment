@@ -33,7 +33,7 @@ nav {
     height: 500px;
   }
   .food {
-    height: 275px;
+    height: 500px;
     width: 500px;
   }
   h1 {
@@ -58,4 +58,8 @@ nav {
   }
   a {
     color: black;
+  }
+  .port {
+    height: 500px;
+    width: 12000px;
   }
