@@ -23,18 +23,20 @@ nav {
   /* overall */
   main {
     text-align: center;
+    margin-bottom: auto;
   }
   img {
     border: solid 2px black;
     margin: 5px;
+    margin-bottom: 10px;
   }
   #people {
     width: 500px;
     height: 500px;
   }
   .food {
-    height: 500px;
-    width: 500px;
+    height: 250px;
+    width: auto;  
   }
   h1 {
     font-family: "mestiza-sans", sans-serif;
@@ -45,21 +47,35 @@ nav {
     font-family: "mestiza-sans", sans-serif;
     font-weight: 400;
     font-style: normal;
+    margin: 10px;
   }
   li {
     font-family: "fillip", sans-serif;
     font-weight: 400;
     font-style: normal;
+    list-style-position: inside;
   }
   h2 {
     font-family: "fillip", sans-serif;
     font-weight: 700;
     font-style: normal;
+    margin: 5px;
+    padding: 2px;
   }
   a {
     color: black;
   }
   .port {
-    height: 500px;
-    width: 12000px;
+    height: auto;
+    width: auto;
+  }
+  footer {
+    text-align: center;
+    background-color: aqua;
+  }
+  .text {
+    font-size: 20px;
+  }
+  .card {
+    text-align: center;
   }
