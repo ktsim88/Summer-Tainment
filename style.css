@@ -66,8 +66,9 @@ nav {
     color: black;
   }
   .port {
-    height: auto;
+    height: 500px;
     width: auto;
+    padding: 2px;
   }
   footer {
     text-align: center;
@@ -78,4 +79,7 @@ nav {
   }
   .card {
     text-align: center;
+  }
+  .journey {
+    background-color: rgb(144, 212, 159);
   }
